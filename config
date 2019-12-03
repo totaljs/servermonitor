@@ -1,0 +1,8 @@
+// Core information
+interval                  : 30000
+endpoint                  : https://127.0.0.1:8000
+
+// System
+processes    (Array)      : ['nginx', 'postgres', ['total', 'total:']]
+versions     (Array)      : [['nginx', '-v'], ['node', '--version']]
+directory                 : /www/
