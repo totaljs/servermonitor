@@ -92,8 +92,3 @@ Then the script will send measured data to specific `endpoint`.
 - `df`
 - `free`
 - `cat` with `/proc/stat`
-
-## Contact
-
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
-[license-url]: license.txt
